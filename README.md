@@ -1,24 +1,12 @@
-Hey there! 👋 I'm Victor Azevedo!
+👨‍💻 Enthusiastic Data Science Student | Python Aficionado 📊
 
-👨‍🎓 I'm currently in my third phase of studying Data Science, diving into the exciting world of data and its endless possibilities.
+🔍 Exploring the endless possibilities of data analysis and machine learning. Currently honing my skills as a data science student, passionate about leveraging Python for impactful solutions.
 
-🚀 Skills:
+📈 Proficient in Python, SQL, and data visualization libraries like Pandas, NumPy, Matplotlib, and Seaborn. Embracing the power of open-source and collaborative coding.
 
-    Python 🐍
-    Excel 💻
-    PowerBI 📊
-    Data Structures & Algorithms 🤖
-    Databases: PostgreSQL & MongoDB 🗃️
+🌟 Eager to contribute to innovative projects, delve deeper into predictive modeling, and make meaningful contributions to the world of data science. Let's code, collaborate, and create!
 
-🌟 Fluency:
-
-    English: Advanced ✨
-    Spanish: Basic 🌎
-    
-🔭 About Me:
-I'm passionate about leveraging data to derive meaningful insights and solutions. When I'm not coding or analyzing data, you'll likely find me playing games or diving into a captivating book. Whether it's unraveling data patterns or unraveling a gripping story, I'm always up for a thrilling challenge!
-
-
+#DataScience #Python #MachineLearning #OpenSource
 
 
 
